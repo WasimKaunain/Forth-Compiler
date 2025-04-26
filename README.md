@@ -108,7 +108,7 @@ Pull requests, ideas, suggestions, and improvements are welcome!
 
 ## ⚖ License
 
-ForthPy is released under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
