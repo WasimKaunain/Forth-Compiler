@@ -76,9 +76,8 @@ The interpreter follows a clear pipeline:
 
 ## 📦 Installation
 
-git clone https://github.com/your-username/forthpy.git
-cd forthpy
-Use it in your Python code:
+```git clone https://github.com/WasimKaunain/forthpy.git```
+
 
 from forth_interpreter import interpreter
 interpreter("2 3 * print")
